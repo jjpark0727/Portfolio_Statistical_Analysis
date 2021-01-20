@@ -4,7 +4,7 @@ This portfolio consists of statistical analysis projects that I worked on either
 
 ---
 
-## Project 1. Application of Ordinal Logistic Regression on the Relationship between Breakfast and Energy Level
+## #1 Project. Application of Ordinal Logistic Regression on the Relationship between Breakfast and Energy Level
 
 - **Project Overview**
 
