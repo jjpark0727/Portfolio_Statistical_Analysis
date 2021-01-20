@@ -45,4 +45,4 @@ This is a research project that I conducted for a course named *Communication fo
    - *Island_data.csv*: Dataset used for the analysis 
 
 
-To see files: [Click Here](https://github.com/jjpark0727/Portfolio_Statistical_Analysis/tree/main/Ordinal%20Logistic%20Regression)
+To see files: [Click Here](https://github.com/jjpark0727/Portfolio_Statistical_Analysis/tree/main/Breakfast)
