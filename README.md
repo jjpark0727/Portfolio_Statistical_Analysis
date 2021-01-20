@@ -1,6 +1,6 @@
 # Portfolio_Statistical-Analysis
 
-This portfolio consists of statistical analysis projectst that I worked on either in college or on my own. 
+This portfolio consists of statistical analysis projects that I worked on either in college or on my own. 
 
 ---
 
