@@ -6,13 +6,13 @@ This portfolio consists of statistical analysis projects that I worked on either
 
 ## Project 1. Application of Ordinal Logistic Regression on the Relationship between Breakfast and Energy Level
 
-- Project Overview
+- **Project Overview**
 
 This is a research project that I conducted for a course named *Communication for Statisticians* at the University of Minnesota. The purpose of this study is to investigate the effects of having breakfast on energy level using Ordinal Logistic Regression model. 
 
 
 
-- Summary
+- **Summary**
 
    (1) Data Collection  
    - Source: An open-ended virtual environment called the *“Island”*(located at *http://island.maths.uq.edu.au*)  
@@ -37,3 +37,7 @@ This is a research project that I conducted for a course named *Communication fo
    (5) Review  
    - Self-Feedback: Although I was already familiar with logistic regression model, which is one of the most well-known and powerful methods to analyze a categorical response, I never had a chance to take a deep dive into the application of 'ordinal logistic regression model' and to apply it to my analysis. Thus, this research project was a great opportunity for me to learn how to deal with data with a categorical response with order as well as to derive meaningful insights by applying the appropriate model.
    - Limitation & Future research: 
+   
+  
+- **File Descriptions**
+ - dd 
