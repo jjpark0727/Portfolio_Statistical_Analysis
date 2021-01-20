@@ -1,4 +1,4 @@
-# Portfolio_Statistical-Analysis
+# Portfolio_Statistical Analysis
 
 This portfolio consists of statistical analysis projects that I worked on either in college or on my own. 
 
@@ -43,3 +43,6 @@ This is a research project that I conducted for a course named *Communication fo
    - *Breakfast and Energy Level.pdf*: Research paper published
    - *island_analysis.r*: R code used for the analysis
    - *Island_data.csv*: Dataset used for the analysis 
+
+
+To see files: [Click Here](https://github.com/jjpark0727/Portfolio_Statistical_Analysis/tree/main/Ordinal%20Logistic%20Regression)
