@@ -15,9 +15,11 @@ This is a research project that I conducted for a course named *Communication fo
 - Summary
 
    (1) Data Collection  
-   - Source
+   - Source: An open-ended virtual environment called the “Island” (located at http://island.maths.uq.edu.au)  
    
-   - Subject:
+   - Subject: Randomly selected 225 participants living on the *Island*  
+   
+   - Collected data: gender, village where they live, energy level, minutes of exercise, hours of sleep, and whether they had breakfast this morning  
    
    (2) Data Pre-processing  
    
