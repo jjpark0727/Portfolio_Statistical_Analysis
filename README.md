@@ -8,7 +8,7 @@ This portfolio consists of statistical analysis projects that I worked on either
 
 - **Project Overview**
 
-This is a research project that I conducted for a course named *Communication for Statisticians* at the University of Minnesota. The purpose of this study is to investigate the effects of having breakfast on energy level using Ordinal Logistic Regression model. 
+  This is a research project that I conducted for a course named *Communication for Statisticians* at the University of Minnesota. The purpose of this study is to investigate the effects of having breakfast on energy level using Ordinal Logistic Regression model. 
 
 
 
