@@ -14,16 +14,18 @@ This is a research project that I conducted for a course named *Communication fo
 
 - Summary
 
-   (1). Data Collection  
+   (1) Data Collection  
+   - Source
+   
+   - Subject:
+   
+   (2) Data Pre-processing  
    
    
-   (2). Data Pre-processing  
+   (3) Modeling  
    
    
-   (3). Modeling  
+   (4) Report
    
    
-   (4). Report
-   
-   
-   (5). Review  
+   (5) Review  
